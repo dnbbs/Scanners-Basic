@@ -723,7 +723,9 @@ $ignore = @(
     "c:\windows\assembly",
     "c:\windows\servicing",
     "c:\program files\bluestacks_msi5",
-    "c:\program files\amd\cnext\cnext"
+    "c:\program files\amd\cnext\cnext",
+    "c:\Program Files\BlueStacks_evg4",
+    "c:\Program Files\BlueStacks_nxt"
 )
 
 $paths = @(
